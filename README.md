@@ -41,7 +41,11 @@ the collection of such data can demonstrate certain indicators of increased suic
 ## Discussion
 
 ## Conclusion
+In this project, the concept is to analyze statistically significant data on suicide rate. All in all, we see that the details show what we see in the newspapers, on television and so on, in our view many of the conclusions we reached were already predicted; just think of the tremendous number of teen suicides, never seen in the data.
 
+- The data illustrates that middle aged adults, between the ages of 30 through 60, have the highest suicide count. While elderly and adolescents have about half the amount as middle aged adults.
+- Suicide is one of the leading causes of death among all Americans adults. Data show alarming differences in suicide for different sexes. It’s evident that males are more inclined to suicide, than females. In addition, Mental health is a major predictor for suicide.
+- Young people age between 15-29 are at the highest risk among all age groups.
 ## Acknowledements
 This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this 
 repository is original and that all appropriate resources are rightfully cited.
