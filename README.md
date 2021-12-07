@@ -103,5 +103,6 @@ This project was submitted as the final course project for CSCI 2000U “Scienti
 repository is original and that all appropriate resources are rightfully cited.
 
 ## README
+Download and extract all of the files in the same directory structure to run the code and produce the expected output.
 
 
