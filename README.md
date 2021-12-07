@@ -52,8 +52,7 @@ Often, the suicide rate is related to a number of factors.
 
 - Second, the age. According to the suicide rate of each age group, the rate of elderly is high, so young people should be especially concerned about the elderly. In addition, the well-being of the elderly throughout the world may be at stake.
 
-- Third, social pressure. A healthy society can make citizens feel safer and more satisfied, so how to relieve social pressure becomes an important topic in all countries.
-
+- Third, mental health. Suicide is one of the leading causes of death among all American adults. Data show alarming differences in suicide for different sexes. It’s evident that males are more inclined to suicide, than females. In addition, Mental health is a major predictor for suicide.
 ## Acknowledements
 This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this 
 repository is original and that all appropriate resources are rightfully cited.
